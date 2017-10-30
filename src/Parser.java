@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 
+// GJK
 public final class Parser {
     enum TYPE {
         I, R, B, C, S, P, L, A     // integer, real, boolean, char, string, procedure, label, array
