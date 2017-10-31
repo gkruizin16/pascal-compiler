@@ -4,7 +4,7 @@ var c1: array['a'..'e'] of integer;
 
 begin
     a1[23] := 17;
-    a1[24] := a1[23] + 5;
+    a1[24] := a1[23] + 30;
     writeln(a1[24]);
 
     c1['b'] := 10;
